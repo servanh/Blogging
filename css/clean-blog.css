@@ -46,10 +46,10 @@ hr.small {
   border-color: white;
 }
 hr.style2{
-  width:200px;
-  height:200px;
-  margin:50px auto;
-  border:4px solid #84AE38
+  background-color:#84AE38;
+  width:700px;
+
+
 }
 .navbar-custom {
   position: absolute;
